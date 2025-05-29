@@ -1,5 +1,5 @@
 use bevy::prelude::*;
-use bevy_smooth_orbit_camera::{Orbit, OrbitPlugin, Orbiting};
+use smooth_orbit_camera::{Orbit, OrbitPlugin, Orbiting};
 
 fn main() {
     App::new()

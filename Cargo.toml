@@ -1,5 +1,5 @@
 [package]
-name = "bevy_smooth_orbit_camera"
+name = "smooth_orbit_camera"
 version = "0.1.0"
 edition = "2024"
 
